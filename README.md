@@ -18,15 +18,15 @@ the Shift key changes the case of letters - converts lowercase to uppercase, upp
 the Shift key allows you to display additional characters instead of numbers and symbols of the main layout
 the active and inactive states of the Shift key differ visually
 
-**Change language en / ru **
+**Change language en / ru**
 
 to change the language, an additional en / ru key has been added, when you click on it, you switch between the Russian and English keyboard layouts
 when switching the language, the currently set language is displayed on the en / ru key
 while holding down the Shift key, additional characters of the corresponding layout are displayed on the keys and in the text input window
 
-**Horizontal arrows to move within a line **
+**Horizontal arrows to move within a line**
 
 to move within the line added left-right arrows, clicks on which implement horizontal navigation of the cursor. Visually, the cursor position is displayed as a vertical blinking bar.
 after moving the cursor position, text input / deletion occurs at the current cursor position, incl. inside line
 
-**Illumination of virtual keyboard keys when clicking on physical keyboard keys **
+**Illumination of virtual keyboard keys when clicking on physical keyboard keys**
